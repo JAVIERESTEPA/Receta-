@@ -1,2 +1,2 @@
-## <span style="color:blue; "> ** RECETA DEL ARROZ CON LECHE CASERO ** </span>
+## <span style="color:blue; "> **RECETA DEL ARROZ CON LECHE CASERO** </span>
 
