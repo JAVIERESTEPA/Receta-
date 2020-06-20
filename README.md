@@ -5,3 +5,6 @@
 
 
 ![Imagenreceta](img/arroz.png)
+
+
+![Imagenreceta](img/leche.png)
