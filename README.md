@@ -10,7 +10,7 @@ Así que, para preparar este popular arroz con leche casero, necesitaremos: </sp
 
 ### <span style="Color:blue;Font-family:Times New Roman;Font-size:14;"> **INGREDIENTES PARA CUATRO PERSONAS** </span>
 
- <span style="Color:black;> •	100g de arroz redondo </span>
+•	100g de arroz redondo 
 
 •	1l de leche entera 
 
@@ -26,3 +26,15 @@ Así que, para preparar este popular arroz con leche casero, necesitaremos: </sp
 </span>
 
 ### <span style="Color:blue;Font-family:Times New Roman;Font-size:14;"> **COMO HACER ARROZ CON LECHE CREMOSO FACIL** </span>
+
+1.	En una olla o cazuela, ponemos la leche, el arroz, las cáscaras de los cítricos y la rama de canela. Calentamos a fuego medio mientras no dejamos de remover.
+
+2.	Cuando esté caliente, pero que no llegue a ebullición, pues la leche pasados los 95-100ºC se quema y coge un regusto muy desagradable, dejamos cocer. Removemos cada cinco minutos, para asegurarnos que el arroz con leche no se pegue y para liberar el almidón. Así nos quedará más cremoso. Recuerda que no debe llegar a hervir a borbotones fuertes en ningún momento.
+
+3.	Pasados unos 45 minutos, cuando el grano esté casi hecho – recuerda remover cada 5 minutos – añadimos el azúcar. Dejamos cocinar 10 minutos más, hasta que el arroz ahora sí que sí, esté bien blando.
+
+4.	Apagamos el fuego y añadimos la mantequilla. Quitamos las cáscaras y la canela en rama y mezclamos bien. Dejamos templar. Sigue mezclando de vez en cuando mientras lo dejes templar, para que no salga costra por la superficie.
+
+5.	Cuando haya templado algo, ponemos el arroz con leche en cuencos individuales. Puedes decorar con un trocito de la rama de canela que usaste para infusionar. Espolvorea encima un poco de canela molida, para darle el toque final
+
+
