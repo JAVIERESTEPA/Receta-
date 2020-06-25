@@ -1,4 +1,4 @@
-## <span style="Font-family:Castellar;Font-size:18;"> **RECETA DEL ARROZ CON LECHE CASERO** </span>
+## <span style="Color:blue;Font-family:Castellar;Font-size:18;"> **RECETA DEL ARROZ CON LECHE CASERO** </span>
 
 
 ![imagenarroz](arroz.png)
