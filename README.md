@@ -10,6 +10,8 @@ Así que, para preparar este popular arroz con leche casero, necesitaremos: </sp
 
 ### <span style="Color:blue;Font-family:Times New Roman;Font-size:14;"> **INGREDIENTES PARA CUATRO PERSONAS** </span>
 
+<span style="Color: negro:
+
 •	100g de arroz redondo 
 
 •	1l de leche entera 
@@ -22,6 +24,7 @@ Así que, para preparar este popular arroz con leche casero, necesitaremos: </sp
 
 •	70g de azúcar 
 
-•	10g de mantequilla 
+•	10g de mantequilla
+</span>
 
 ### <span style="Color:blue;Font-family:Times New Roman;Font-size:14;"> **COMO HACER ARROZ CON LECHE CREMOSO FACIL** </span>
