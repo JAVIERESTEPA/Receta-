@@ -1,8 +1,9 @@
-## <span style="color:blue; "> **RECETA DEL ARROZ CON LECHE CASERO** </span>
-
-
-## <span style=;color: blue;, “Font-family:Castellar;Font-size 18;>**RECETA DEL ARROZ CON LECHE CASERO** </span>
-
+## <span style="Font-family:Castellar;Font-size:18;"> **RECETA DEL ARROZ CON LECHE CASERO** </span>
 
 
 ![imagenarroz](arroz.png)
+
+
+<span style="font-family:Times New Roman;> El arroz con leche es el postre por antonomasia de los hogares de toda España y América latina. Es muy fácil de hacer, y con pocos ingredientes. Siguiendo la técnica adecuada, además, lograremos que nos quede mucho más cremoso. Para ello, es importante las cantidades y sus proporciones. Datos que veremos a continuación. 
+Así que, para preparar este popular arroz con leche casero, necesitaremos:
+
