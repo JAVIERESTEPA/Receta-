@@ -10,7 +10,7 @@ Así que, para preparar este popular arroz con leche casero, necesitaremos: </sp
 
 ### <span style="Color:blue;Font-family:Times New Roman;Font-size:14;"> **INGREDIENTES PARA CUATRO PERSONAS** </span>
 
-<span style="Color:black;>
+<span style="color:black;
 
 •	100g de arroz redondo 
 
