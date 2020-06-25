@@ -10,19 +10,19 @@ Así que, para preparar este popular arroz con leche casero, necesitaremos: </sp
 
 ### <span style="Color:blue;Font-family:Times New Roman;Font-size:14;"> **INGREDIENTES PARA CUATRO PERSONAS** </span>
 
-•	100g de arroz redondo 
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;"> •	100g de arroz redondo</span>
 
-•	1l de leche entera 
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;">•	1l de leche entera</span> 
 
-•	1 trozo de cáscara de limón y de naranja 
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;">•	1 trozo de cáscara de limón y de naranja</span>
 
-•	1 rama de canela 
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;">•	1 rama de canela</span> 
 
-•	canela en polvo 
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;">•	canela en polvo</span>
 
-•	70g de azúcar 
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;">•	70g de azúcar</span> 
 
-•	10g de mantequilla
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;">•	10g de mantequilla</span>
 
 ### <span style="Color:blue;Font-family:Times New Roman;Font-size:14;"> **COMO HACER ARROZ CON LECHE CREMOSO FACIL** </span>
 
@@ -30,7 +30,7 @@ Así que, para preparar este popular arroz con leche casero, necesitaremos: </sp
 
 <span style="Color:black;Font-family:Times New Roman;Font-size:12;">2.	Cuando esté caliente, pero que no llegue a ebullición, pues la leche pasados los 95-100ºC se quema y coge un regusto muy desagradable, dejamos cocer. Removemos cada cinco minutos, para asegurarnos que el arroz con leche no se pegue y para liberar el almidón. Así nos quedará más cremoso. Recuerda que no debe llegar a hervir a borbotones fuertes en ningún momento.</span>
 
-<span style="Color:black;Font-family:Times New Roman;Font-size:12;">3.	Pasados unos 45 minutos, cuando el grano esté casi hecho – recuerda remover cada 5 minutos – añadimos el azúcar. Dejamos cocinar 10 minutos más, hasta que el arroz ahora sí que sí, esté bien blando.</span>
+<span style="Color:black;Font-family:Times New Roman;Font-size:12;">3.	Pasados unos 45 minutos, cuando el grano esté casi hecho – recuerda remover cada 5 minutos añadimos el azúcar. Dejamos cocinar 10 minutos más, hasta que el arroz ahora sí que sí, esté bien blando.</span>
 
 <span style="Color:black;Font-family:Times New Roman;Font-size:12;">4.	Apagamos el fuego y añadimos la mantequilla. Quitamos las cáscaras y la canela en rama y mezclamos bien. Dejamos templar. Sigue mezclando de vez en cuando mientras lo dejes templar, para que no salga costra por la superficie.</span>
 
